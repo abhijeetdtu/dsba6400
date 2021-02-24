@@ -1,4 +1,4 @@
-# dsba6400
+# Controlling UAV using Motion Gestures
 
 ### Edge AI on Jetson Nano 2 GB
 
